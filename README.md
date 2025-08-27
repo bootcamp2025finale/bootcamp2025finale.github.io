@@ -1,3 +1,3 @@
-# bootcamp2025finale.github.io
+# blogzafinale.hackultet.hr
 
-CTF2025[13554044628123]
+Under construction
